@@ -1,9 +1,9 @@
 resources:
 - comment
-- kafka
-- mongodb
+# - kafka
+# - mongodb
 - postgres
 - redis
-- video
-- zookeeper
+# - video
+# - zookeeper
 - github-actions
